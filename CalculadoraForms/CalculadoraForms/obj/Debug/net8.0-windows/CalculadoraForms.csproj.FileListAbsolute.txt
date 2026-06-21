@@ -1,0 +1,16 @@
+C:\C#\CalculadoraForms\CalculadoraForms\bin\Debug\net8.0-windows\CalculadoraForms.exe
+C:\C#\CalculadoraForms\CalculadoraForms\bin\Debug\net8.0-windows\CalculadoraForms.deps.json
+C:\C#\CalculadoraForms\CalculadoraForms\bin\Debug\net8.0-windows\CalculadoraForms.runtimeconfig.json
+C:\C#\CalculadoraForms\CalculadoraForms\bin\Debug\net8.0-windows\CalculadoraForms.dll
+C:\C#\CalculadoraForms\CalculadoraForms\bin\Debug\net8.0-windows\CalculadoraForms.pdb
+C:\C#\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.Form1.resources
+C:\C#\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.csproj.GenerateResource.cache
+C:\C#\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.AssemblyInfoInputs.cache
+C:\C#\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.AssemblyInfo.cs
+C:\C#\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.csproj.CoreCompileInputs.cache
+C:\C#\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.dll
+C:\C#\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\refint\CalculadoraForms.dll
+C:\C#\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.pdb
+C:\C#\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\CalculadoraForms.genruntimeconfig.cache
+C:\C#\CalculadoraForms\CalculadoraForms\obj\Debug\net8.0-windows\ref\CalculadoraForms.dll
